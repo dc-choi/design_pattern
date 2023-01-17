@@ -45,12 +45,15 @@
 
 1. 생성 패턴
 기존 코드의 재활용과 유연성을 증가시키는 객체 생성 메커니즘들을 제공합니다.
+
 EX) Factory, Builder
 
 2. 구조 패턴
 구조를 유연하고 효율적으로 유지하면서 객체와 클래스를 더 큰 구조로 조합합니다.
+
 EX) Adapter, Decorator, Proxy
 
 3. 행동 패턴
 객체 간의 효과적인 의사소통과 책임 할당을 처리합니다.
+
 EX) Observer, Strategy, State, Template, Iterator
